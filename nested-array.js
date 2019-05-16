@@ -6,3 +6,4 @@ function panggilNestedArray (){
               console.log(datanama[0][2])
 }
 panggilNestedArray()
+
